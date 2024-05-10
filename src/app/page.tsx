@@ -80,7 +80,6 @@ export default function Home() {
     },2000)
     return ()=> clearInterval(timer)
   },[listItem])
-  
   return (
     <div className="">
       <div className="max-w-screen-xl items-center justify-between mx-auto my-4 bg-white">
