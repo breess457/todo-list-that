@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # todo-list-that
 frontend todolist
 =======
